@@ -28,3 +28,4 @@ to choose the best move to take.
 
 •	When one player wins, the accumulative score of him is incremented and a new game with the same options start and the winner of the last game is displayed.
 
+•	The user can start a new game by closing the current game panel and choosing the options again ana open a new panel with a whole new score.
