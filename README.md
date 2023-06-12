@@ -2,7 +2,7 @@
 
 Othello is a strategy board game played between two people on a 8x8 checkerboard with black and white disks. 
 Game rules are described in the following link: 
-                https://www.youtube.com/watch?v=zFrlu3E18BA
+https://www.youtube.com/watch?v=zFrlu3E18BA
                 
 Our program is implemented in JAVA and it is mainly about an AI playing Othello against a human using an AI program we implemented or against another AI.  
 AI will determine the state of the board using evaluators, differentiate between different moves using algorithms and 
@@ -10,9 +10,9 @@ heuristics, choose the best move to make, and take action based on these heurist
 
 # MANUAL
 •	The program starts by giving the user different options to play as:
-	1. Human Vs Human.
-	2. Human Vs AI.
-	3. AI Vs AI.
+1. Human Vs Human.
+2. Human Vs AI.
+3. AI Vs AI.
   
 •	If the user chooses any option that contains AI (choice 2 & 3), the GUI shows 3 different levels, which are:
 1. Easy.
